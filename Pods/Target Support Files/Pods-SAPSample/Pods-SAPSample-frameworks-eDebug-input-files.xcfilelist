@@ -1,0 +1,2 @@
+${PODS_ROOT}/Target Support Files/Pods-SAPSample/Pods-SAPSample-frameworks.sh
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SAPCommon/SAPCommon.framework/SAPCommon

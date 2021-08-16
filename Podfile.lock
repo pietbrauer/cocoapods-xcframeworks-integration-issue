@@ -1,0 +1,16 @@
+PODS:
+  - SAPCommon (6.0.2)
+
+DEPENDENCIES:
+  - SAPCommon
+
+SPEC REPOS:
+  https://github.com/SAP-samples/cloud-sdk-ios-specs:
+    - SAPCommon
+
+SPEC CHECKSUMS:
+  SAPCommon: 174f30b9a0af097f5b745da813cb219d0dc30f2e
+
+PODFILE CHECKSUM: cf788c2e321e46705867ed4bb3b2e2804c7e332b
+
+COCOAPODS: 1.10.2
